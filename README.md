@@ -334,11 +334,10 @@ sweetstall.html
 </html>
 ```
 # OUTPUT
-![alt text](<Screenshot 2024-12-10 223008.png>)
-![alt text](<Screenshot 2024-12-10 222735.png>)
-![alt text](<Screenshot 2024-12-10 222641.png>)
-![alt text](<Screenshot 2024-12-10 223222.png>)
-![alt text](<Screenshot 2024-12-10 223259.png>)
-![alt text](<Screenshot 2024-12-10 222241.png>)
+![alt text](<Screenshot 2024-12-12 214316.png>)
+![alt text](<Screenshot 2024-12-12 214351.png>)
+![alt text](<Screenshot 2024-12-12 214431.png>)
+![alt text](<Screenshot 2024-12-12 214459.png>)
+![alt text](<Screenshot 2024-12-12 214525.png>)
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
